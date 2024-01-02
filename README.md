@@ -1,1 +1,1 @@
-# Data_Analysis_and_Visualization_EDA_Redash
+# Redash chatbot add-on: LLM based chatbot for Advanced Data Analytics, Visualisation, and Automated Insight Extraction
